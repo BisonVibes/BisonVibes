@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🦬 BisonVibes
 
-<!--
-**BisonVibes/BisonVibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring the crossroads of **telecommunications** and **creativity**.  
+Building with **voice, phone, and SMS workflows** using APIs and new tools.  
+🎶 Lifelong passion for **music, sound, and voice tech** — from live gigs to AI experiments.  
+💡 Complete novice in code, but learning the **Vibe Code** way: curious, hands-on, and sharing the journey.  
+🌍 Open to new projects, wild ideas, and collaborating with others chasing cool signals.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I’m Into
+- Voice AI & telephony workflows  
+- SMS + APIs for communication  
+- Audio/music projects (live & digital)  
+- Experimenting with automation + creative coding  
+
+---
+
+### 📫 Connect
+- GitHub: [@BisonVibes](https://github.com/BisonVibes)  
+- Music & projects: coming soon 🚀
